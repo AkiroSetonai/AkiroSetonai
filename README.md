@@ -1,7 +1,3 @@
-<img src="https://raw.githubusercontent.com/AkiroSetonai/AkiroSetonai/output/snake.svg" alt="Snake animation" />
-
-###
-
 <h2 align="left">About Me</h2>
 
 ###
