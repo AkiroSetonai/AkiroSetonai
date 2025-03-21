@@ -1,9 +1,6 @@
 <img align="right" height="400" src="https://i.pinimg.com/originals/5e/4a/fe/5e4afe98270f33c93b97d6a27fd35a8c.gif"  />
-
 ###
-
 <h1 align="left">About Me</h1>
-
 ###
 
 <p align="left">Hello! 👋 I'm an Aspiring Front-End Developer<br><br>I'm at the beginning of my journey into front-end development, eager to learn and grow in the field. I have a basic understanding of HTML, CSS, and JavaScript, and I'm exploring frameworks like React and Vue.js. I'm committed to improving my skills and contributing to projects that make a difference.<br><br>🌱 Currently learning Angular and Advanced CSS.<br><br>📈 Always looking to learn more about best practices in web development.<br><br>🚀 Excited to collaborate on projects and gain practical experience.<br><br>🎮 I enjoy playing video games.<br><br>📺 I love watching anime and series.</p>
