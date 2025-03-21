@@ -1,7 +1,3 @@
-<br clear="both">
-
-<img align="left" height="425" src="https://i.pinimg.com/originals/5e/4a/fe/5e4afe98270f33c93b97d6a27fd35a8c.gif"  />
-
 ###
 
 <h1 align="left">About Me</h1>
