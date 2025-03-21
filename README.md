@@ -29,7 +29,8 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AkiroSetonai&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" />
 </div>
 
-### ✍️ Random Dev Quote
+###
+#✍️ Random Dev Quote
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote" />
 </div>
