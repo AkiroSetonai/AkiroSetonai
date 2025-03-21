@@ -62,8 +62,3 @@
 </div>
 
 
-###
-
-<img src="https://raw.githubusercontent.com/AkiroSetonai/AkiroSetonai/output/snake.svg" alt="Snake animation" />
-
-###
