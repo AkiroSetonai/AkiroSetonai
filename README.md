@@ -6,9 +6,6 @@
 
 <p align="left">Hello! 👋 I'm an Aspiring Front-End Developer<br><br>I'm at the beginning of my journey into front-end development, eager to learn and grow in the field. I have a basic understanding of HTML, CSS, and JavaScript, and I'm exploring frameworks like React and Vue.js. I'm committed to improving my skills and contributing to projects that make a difference.<br><br>🌱 Currently learning Angular and Advanced CSS.<br><br>📈 Always looking to learn more about best practices in web development.<br><br>🚀 Excited to collaborate on projects and gain practical experience.<br><br>🎮 I enjoy playing video games.<br><br>📺 I love watching anime and series.</p>
 
-<div align="center">
-  <img height="200" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbnRna2Ntc294bm50bXQxcW9kZjV2azU4aGsyNmRkcTk0cXZjNzB0cCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ctaJhFmrx1ILibSH7c/giphy.gif"  />
-</div>
 
 ###
 
@@ -65,3 +62,8 @@
 </div>
 
 
+###
+
+<img src="https://raw.githubusercontent.com/AkiroSetonai/AkiroSetonai/output/snake.svg" alt="Snake animation" />
+
+###
