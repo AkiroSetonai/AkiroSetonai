@@ -1,4 +1,8 @@
-<h2 align="left">About Me</h2>
+<img align="right" height="425" src="https://i.pinimg.com/originals/5e/4a/fe/5e4afe98270f33c93b97d6a27fd35a8c.gif"  />
+
+###
+
+<h1 align="left">About Me</h1>
 
 ###
 
@@ -6,23 +10,42 @@
 
 ###
 
-<div align="center">
-  <img height="50" src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif"  />
+<h2 align="left">🌐 Socials</h2>
+
+###
+
+<div align="left">
+  <a href="https://www.linkedin.com/in/walysson-cavalcante-4889a92a8/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="42" height="30" alt="linkedin logo"  />
+  </a>
+  <a href="wcavalcante.dev@gmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="42" height="30" alt="gmail logo"  />
+  </a>
 </div>
 
 ###
 
-# 🌐 Socials:
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/walysson-cavalcante-4889a92a8/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@AkiroSetonai) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:wcavalcante.dev@gmail.com)
+<h2 align="left">💻 Tech Stack:</h2>
 
 ###
-# 💻 Tech Stack:
 
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) 
+<div align="left">
+  <img src="https://cdn.simpleicons.org/javascript/F7DF1E" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/typescript/3178C6" height="40" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/angular/DD0031" height="40" alt="angularjs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
+</div>
 
 ###
-# 📊 GitHub Stats:
+
+<h2 align="left">📊 GitHub Stats:</h2>
+
+###
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=AkiroSetonai&theme=radical&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" /><br/>
@@ -30,7 +53,11 @@
 </div>
 
 ###
-# ✍️ Random Dev Quote
+
+<h2>✍️ Random Dev Quote</h2>
+
+###
+
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote" />
 </div>
